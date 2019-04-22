@@ -1,0 +1,4 @@
+Mempelajari Git:
+- testing GitHub
+- testing Git
+- kolaborasi
