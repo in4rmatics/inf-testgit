@@ -2,3 +2,5 @@ Mempelajari Git:
 - testing GitHub
 - testing Git
 - kolaborasi
+- organisasi source code
+- kontribusi programming
